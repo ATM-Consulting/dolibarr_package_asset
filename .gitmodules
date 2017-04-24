@@ -1,0 +1,6 @@
+[submodule "htdocs/asset"]
+	path = htdocs/asset
+	url = git@github.com:ATM-Consulting/dolibarr_module_asset.git
+[submodule "htdocs/dispatch"]
+	path = htdocs/dispatch
+	url = git@github.com:ATM-Consulting/dolibarr_module_dispatch.git
