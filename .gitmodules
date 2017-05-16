@@ -4,3 +4,6 @@
 [submodule "htdocs/dispatch"]
 	path = htdocs/dispatch
 	url = git@github.com:ATM-Consulting/dolibarr_module_dispatch.git
+[submodule "htdocs/abricot"]
+	path = htdocs/abricot
+	url = git@github.com:ATM-Consulting/dolibarr_module_abricot.git
