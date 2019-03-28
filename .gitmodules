@@ -1,5 +1,5 @@
-[submodule "htdocs/asset"]
-	path = htdocs/asset
+[submodule "htdocs/assetatm"]
+	path = htdocs/assetatm
     url = git@github.com:ATM-Consulting/dolibarr_module_asset.git
     branch = 3.0
 [submodule "htdocs/dispatch"]
