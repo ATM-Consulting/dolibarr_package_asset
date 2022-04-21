@@ -1,12 +1,12 @@
 [submodule "htdocs/assetatm"]
 	path = htdocs/assetatm
     url = git@github.com:ATM-Consulting/dolibarr_module_asset.git
-    branch = 3.0
+    branch = 3.7
 [submodule "htdocs/dispatch"]
 	path = htdocs/dispatch
     url = git@github.com:ATM-Consulting/dolibarr_module_dispatch.git
-    branch = 2.0
+    branch = 3.7
 [submodule "htdocs/abricot"]
 	path = htdocs/abricot
     url = git@github.com:ATM-Consulting/dolibarr_module_abricot.git
-    branch = master
+    branch = 3.4
